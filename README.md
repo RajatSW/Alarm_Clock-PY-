@@ -1,4 +1,4 @@
-# Alarm_Clock-PY-
+# Alarm_Clock_PY
 # ⏰ Python GUI Alarm Clock
 
 This is a lightweight yet functional alarm clock desktop application built with Python using `Tkinter` for the graphical interface and `Pygame` to play a custom alarm sound.
